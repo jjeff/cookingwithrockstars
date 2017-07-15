@@ -1,0 +1,292 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head><title>The Soundtrack of our Lives (Martin Hederos) | Cooking With Rockstars</title>  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="/files/cwr_favicon.gif" type="image/x-icon" />
+  <style type="text/css" media="all">@import "/modules/forum/forum.css";</style>
+<style type="text/css" media="all">@import "/modules/node/node.css";</style>
+<style type="text/css" media="all">@import "/modules/system/defaults.css";</style>
+<style type="text/css" media="all">@import "/modules/system/system.css";</style>
+<style type="text/css" media="all">@import "/modules/user/user.css";</style>
+<style type="text/css" media="all">@import "/sites/all/modules/contrib/cck/content.css";</style>
+<style type="text/css" media="all">@import "/sites/all/modules/contrib/cck/fieldgroup.css";</style>
+<style type="text/css" media="all">@import "/sites/all/modules/contrib/date/date.css";</style>
+<style type="text/css" media="all">@import "/sites/all/modules/contrib/devel/devel.css";</style>
+<style type="text/css" media="all">@import "/sites/all/themes/engines/zengine/css/zengine.css";</style>
+<style type="text/css" media="all">@import "/sites/all/themes/cwr/css/cwr-2nd.css";</style>
+<style type="text/css" media="print">@import "/sites/all/themes/engines/zengine/css/print.css";</style>
+  <script type="text/javascript" src="/misc/jquery.js"></script>
+<script type="text/javascript" src="/misc/drupal.js"></script>
+<script type="text/javascript">Drupal.extend({ settings: { "googleanalytics": { "trackDownload": "pdf|zip|mp3" } } });</script>
+  <!--[if IE 6]>    <link rel="stylesheet" type="text/css" media="all" href="/sites/all/themes/cwr/css/ie7.css" />  <![endif]-->  <script type="text/javascript"> </script> </head><body id="artist" class="not-front not-logged-in ntype-artist node-page sidebar-left"><div id="container"><div id="header">  <h1 id='site-name'>    <a href="/" title="Home" rel="home">      <span>Cooking With Rockstars</span>    </a>  </h1>      <div id="navigation" class="menu withprimary ">                      <div id="primary" class="clear-block">              <ul class="links-menu">
+<li><a href="/">home</a></li>
+<li><a href="/kitchen">blog</a></li>
+<li><a href="/recipes">recipes</a></li>
+<li><a href="/about">about the show</a></li>
+<li><a href="/contact">contact</a></li>
+<li><a href="/subscribe">subscribe</a></li>
+</ul>            </div>                                    </div> <!-- /navigation -->    </div><div id="content">  <div id="content-content">
+                                        <div class="messages error">
+ <ul>
+  <li>warning: Parameter 1 to theme_field() expected to be a reference, value given in /home/cookingw/public_html/includes/theme.inc on line 170.</li>
+  <li>warning: Parameter 1 to theme_field() expected to be a reference, value given in /home/cookingw/public_html/includes/theme.inc on line 170.</li>
+  <li>warning: Parameter 1 to theme_field() expected to be a reference, value given in /home/cookingw/public_html/includes/theme.inc on line 170.</li>
+  <li>warning: Parameter 1 to theme_field() expected to be a reference, value given in /home/cookingw/public_html/includes/theme.inc on line 170.</li>
+  <li>warning: Parameter 1 to theme_field() expected to be a reference, value given in /home/cookingw/public_html/includes/theme.inc on line 170.</li>
+  <li>warning: Parameter 1 to theme_field() expected to be a reference, value given in /home/cookingw/public_html/includes/theme.inc on line 170.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>warning: Parameter 1 to theme_field() expected to be a reference, value given in /home/cookingw/public_html/includes/theme.inc on line 170.</li>
+  <li>warning: Parameter 1 to theme_field() expected to be a reference, value given in /home/cookingw/public_html/includes/theme.inc on line 170.</li>
+  <li>warning: Parameter 1 to theme_field() expected to be a reference, value given in /home/cookingw/public_html/includes/theme.inc on line 170.</li>
+  <li>warning: Parameter 1 to theme_field() expected to be a reference, value given in /home/cookingw/public_html/includes/theme.inc on line 170.</li>
+  <li>warning: Parameter 1 to theme_field() expected to be a reference, value given in /home/cookingw/public_html/includes/theme.inc on line 170.</li>
+  <li>warning: Parameter 1 to theme_field() expected to be a reference, value given in /home/cookingw/public_html/includes/theme.inc on line 170.</li>
+  <li>warning: Parameter 1 to theme_field() expected to be a reference, value given in /home/cookingw/public_html/includes/theme.inc on line 170.</li>
+  <li>warning: Parameter 1 to theme_field() expected to be a reference, value given in /home/cookingw/public_html/includes/theme.inc on line 170.</li>
+  <li>warning: Parameter 1 to theme_field() expected to be a reference, value given in /home/cookingw/public_html/includes/theme.inc on line 170.</li>
+  <li>warning: Parameter 1 to theme_field() expected to be a reference, value given in /home/cookingw/public_html/includes/theme.inc on line 170.</li>
+  <li>warning: Parameter 1 to theme_field() expected to be a reference, value given in /home/cookingw/public_html/includes/theme.inc on line 170.</li>
+  <li>warning: Parameter 1 to theme_field() expected to be a reference, value given in /home/cookingw/public_html/includes/theme.inc on line 170.</li>
+  <li>warning: Parameter 1 to theme_field() expected to be a reference, value given in /home/cookingw/public_html/includes/theme.inc on line 170.</li>
+  <li>warning: Parameter 1 to theme_field() expected to be a reference, value given in /home/cookingw/public_html/includes/theme.inc on line 170.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+ </ul>
+</div>
+                    <div class="node ntype-artist odd" id="node-289">
+  
+    
+  
+    
+  <div class="content">
+    <div id="main">
+
+    <div id="movie"> <!-- this is the blue expanding box with the movie in it -->
+      <h1>The Soundtrack of our Lives (Martin Hederos)</h1>
+        <div class="player"><object
+    type="application/x-shockwave-flash"
+    classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"
+    codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0"
+    width="480"
+    height="390"
+    id="showplayer"
+    allowfullscreen="true"
+    allowscriptaccess="always"
+    autoStart="false"
+    >
+
+     <param name="movie"
+       value="http://blip.tv/scripts/flash/showplayer.swf?file=http%3A//blip.tv/rss/flash/1012170"
+     />
+     <param name="allowscriptaccess" value="always" />
+     <param name="allowfullscreen" value="true" />
+     <param name="quality" value="best" />
+     <param name="wmode" value="window" />
+     <embed
+        type="application/x-shockwave-flash"
+        width="480"
+        height="390"
+        id="shoplayerembed"
+        name="showplayer"
+        src="http://blip.tv/scripts/flash/showplayer.swf?file=http%3A//blip.tv/rss/flash/1012170"
+        pluginspage="http://www.macromedia.com/go/getflashplayer"
+        wmode="window"
+        allowfullscreen="true"
+        allowscriptaccess="always"
+     />
+</object></div>
+      <p id="subscribe"><a href="/itunes">Subscribe using iTunes</a> | <a href="/subscribe">Other subscribing options</a></p>
+    </div> <!-- /movie -->
+
+        <div id="recipe">
+      <h2>Recipe</h2>
+                  <div class="recipe-item">
+                        <h3>Lamb Tagine</h3>
+            <div class="recipe-note">
+              <p>Very based on a Dean and Deluca recipe but with some additions.</p>
+            </div><!-- /recipe-note -->
+
+            <h4>Ingredients</h4>
+            <ul>
+<li>approx. 1-3/4 lb. (800g) Lamb chopped in cubes (1.5in/3cm), cheap cuts works fine, bones left good!</li>
+<li>1  Eggplant (aubergine) cut in kind of same size cubes</li>
+<li>2 small or 1 big finely chopped onion</li>
+<li>5 cloves finely chopped garlic</li>
+<li>approx. 1/2lb. (200 g) dried fruits (apricots, figs dates, apples works fine too) chopped in big pieces</li>
+<li>approx. 1/4lb. (100 g) big green olives in halves without pits</li>
+<li>1 Tbs star anise</li>
+<li>1 Tbs dried ginger</li>
+<li>1 Tbs cumin</li>
+<li>1 Tbs chili powder</li>
+<li>1 Tbs dried sweet pepper</li>
+<li>2 tsp. salt</li>
+<li>2 cinnamon sticks</li>
+<li>water (enough to cover)</li>
+<li>Fresh cilantro (coriander) chopped</li>
+<li>lemon zest from a well washed lemon (try to find an  organic one)</li>
+</ul>
+<ul>
+<li>Honey</li>
+</ul>
+
+            <h4>Instructions</h4>
+            <ol>
+<li>Put all the spices (not the salt) in a dry pan and roast until it starts to smell nice.</li>
+<li>Put them all in a mortar and grind them and blend them well with the salt.</li>
+<li>Cover the meat in the spices, work it in well with your hands.</li>
+<li>Heat a good amount of olive oil in a big oven-proof dish that has a lid, brown the meat on all sides.</li>
+<li>Remove the meat from the hot pan and brown the eggplant. Put it aside with the meat once brown.</li>
+<li>Lower the heat and fry the onions and garlic carefully, do not brown.</li>
+<li>Cover with water, add cinnamon stick, and bring to boil, put on the lid and put in oven on 390F (200C).</li>
+<li>Let it stay in the oven until tender, 1-2 hours depending on the texture of the meat.</li>
+<li>Add the fruits and the olives. Roast for approx. 20 minutes without lid until golden on the top.</li>
+</ol>
+<ol>
+<li>Sprinkle with cilantro and lemon zest and drizzle some honey over the whole thing.</li>
+</ol>
+<p>	Serve! (with couscous)</p>
+          </div> <!-- recipe-item -->
+            </div> <!-- /recipe -->
+        
+</div> <!-- /main -->
+
+
+
+<div id="info"> <!-- this is the info that goes in the right column -->
+
+    <div id="aboutartist">
+    <h2>About this Artist</h2>
+    <h3>The Soundtrack of our Lives (Martin Hederos)</h3>
+    <p>Martin Hederos is the keyboard player for the Swedish band, The Soundtrack of Our Lives. TSOOL have created a unique blend of anthemic rock with psychedelic jams, and their full-throttle live shows are not to be missed&#8230; they rock like the 70s never ended.</p>
+    </div>  <!-- /aboutartist -->
+
+
+    <div id="weblinks">
+      <h2 class="field-label">Links</h2>
+        <ul>
+                  <li><a href="http://www.tsool.net/">Official TSOOL site</a></li>
+                    <li><a href="http://www.youtube.com/user/officialtsool">TSOOL on YouTube (lots of live footage)</a></li>
+                  </ul>
+    </div> <!-- /weblinks -->
+
+
+    <div id="discography">
+    <h2>Discography</h2>
+    <ul>
+                <li><a href="http://www.amazon.com/gp/redirect.html%3FASIN=B0007TKH6G%26tag=jenatlittleccom%26lcode=xm2%26cID=2025%26ccmID=165953%26location=/Origin-Vol-Soundtrack-Our-Lives/dp/B0007TKH6G%253FSubscriptionId=1XFK01HK9NZWGPENWGG2" title="Origin, Vol. 1"><img src="http://ecx.images-amazon.com/images/I/61NW9Q6AYFL._SL75_.jpg" width="75" height="74"/></a><br /><a href="http://www.amazon.com/gp/redirect.html%3FASIN=B0007TKH6G%26tag=jenatlittleccom%26lcode=xm2%26cID=2025%26ccmID=165953%26location=/Origin-Vol-Soundtrack-Our-Lives/dp/B0007TKH6G%253FSubscriptionId=1XFK01HK9NZWGPENWGG2">Origin, Vol. 1</a></li>
+                  <li><a href="http://www.amazon.com/gp/redirect.html%3FASIN=B00006JKCK%26tag=jenatlittleccom%26lcode=xm2%26cID=2025%26ccmID=165953%26location=/Behind-Music-Soundtrack-Our-Lives/dp/B00006JKCK%253FSubscriptionId=1XFK01HK9NZWGPENWGG2" title="Behind the Music"><img src="http://ecx.images-amazon.com/images/I/41AH2MV6RVL._SL75_.jpg" width="75" height="75"/></a><br /><a href="http://www.amazon.com/gp/redirect.html%3FASIN=B00006JKCK%26tag=jenatlittleccom%26lcode=xm2%26cID=2025%26ccmID=165953%26location=/Behind-Music-Soundtrack-Our-Lives/dp/B00006JKCK%253FSubscriptionId=1XFK01HK9NZWGPENWGG2">Behind the Music</a></li>
+                  <li><a href="http://www.amazon.com/gp/redirect.html%3FASIN=B000BYKAU0%26tag=jenatlittleccom%26lcode=xm2%26cID=2025%26ccmID=165953%26location=/Present-Past-Soundtrack-Our-Lives/dp/B000BYKAU0%253FSubscriptionId=1XFK01HK9NZWGPENWGG2" title="A Present from the Past"><img src="http://ecx.images-amazon.com/images/I/51Q8YE0WTHL._SL75_.jpg" width="75" height="75"/></a><br /><a href="http://www.amazon.com/gp/redirect.html%3FASIN=B000BYKAU0%26tag=jenatlittleccom%26lcode=xm2%26cID=2025%26ccmID=165953%26location=/Present-Past-Soundtrack-Our-Lives/dp/B000BYKAU0%253FSubscriptionId=1XFK01HK9NZWGPENWGG2">A Present from the Past</a></li>
+                  <li><a href="http://www.amazon.com/gp/redirect.html%3FASIN=B000069022%26tag=jenatlittleccom%26lcode=xm2%26cID=2025%26ccmID=165953%26location=/Welcome-Infant-Freebase-Soundtrack-Lives/dp/B000069022%253FSubscriptionId=1XFK01HK9NZWGPENWGG2" title="Welcome to the Infant Freebase"><img src="http://ecx.images-amazon.com/images/I/31PMPzQYZZL._SL75_.jpg" width="75" height="74"/></a><br /><a href="http://www.amazon.com/gp/redirect.html%3FASIN=B000069022%26tag=jenatlittleccom%26lcode=xm2%26cID=2025%26ccmID=165953%26location=/Welcome-Infant-Freebase-Soundtrack-Lives/dp/B000069022%253FSubscriptionId=1XFK01HK9NZWGPENWGG2">Welcome to the Infant Freebase</a></li>
+          </ul>
+    </div> <!-- /discography -->
+    
+
+    <div id="aboutinterview">
+        <h2>About the interview</h2>
+        <dl id="aboutinterviewend">
+        <dt class="hiddenlabel">Notes:</dt>
+        <dd><p>I first met Martin in &#8217;03 after a show in Providence and he was really excited about talking about food. Five years later, we finally made it happen in the Austin Hilton lobby during the SXSW music festival. Martin was the most proactively cooperative guest I&#8217;ve ever interviewed. He called ME, and showed up right on time.</p>
+</dd>
+        <dt>date:</dt>
+        <dd>03.13.08</dd>
+        <dt>location:</dt>
+        <dd><p>Austin, TX</p>
+</dd>
+        <dt>camera:</dt>
+        <dd><p>Ryan King</p>
+</dd>
+        <dt>editing:</dt>
+        <dd><p>Jennifer Robbins and James Holland</p>
+</dd>
+        </dl>
+    </div> <!-- /aboutinterview -->
+
+</div>      </div>
+  
+   
+</div>
+          
+                
+   </div> <!-- /content-content -->
+              <div id="sidebar-left" class="column sidebar">
+          <div id="block-views-interviews" class="block block-views odd">  
+  <div class="blockinner">
+    <h2 class="title block-title"><span>Interviews</span></h2>    <div class="content">
+      <div class='view view-interviews'><div class='view-header view-header-interviews'><p>(alphabetical order)</p>
+</div>
+<div class='view-content view-content-interviews'><div class="item-list"><ul><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/all-nots">The All For Nots</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/apples-stereo-robert-schneider">Apples in Stereo (Robert Schneider)</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/beulah-miles-kurosky">Beulah (Miles Kurosky)</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/jack-black">Jack Black</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/dresden-dolls-brian-viglione">The Dresden Dolls (Brian Viglione)</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/enon-john-schmersal-and-toko-yasuda">Enon (John Schmersal and Toko Yasuda)</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/fruit-bats">Fruit Bats</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/ben-gibbard-death-cab-cutie-postal-service">Ben Gibbard (Death Cab for Cutie, The Postal Service)</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/robyn-hitchcock-part-1">Robyn Hitchcock, Part 1</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/robyn-hitchcock-part-2">Robyn Hitchcock, Part 2</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/interpol-sam-fogarino">Interpol (Sam Fogarino)</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/iron-and-wine-sam-beam">Iron and Wine (Sam Beam)</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/ben-kweller">Ben Kweller</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/liam-lynch">Liam Lynch</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/matt-and-kim">Matt and Kim</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/rhett-miller-old97s-and-solo">Rhett Miller (Old97s and solo)</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/nada-surf">Nada Surf</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/new-pornographers">The New Pornographers</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/okkervil-river-will-sheff-jonathan-meiburg">Okkervil River (Will Sheff, Jonathan Meiburg)</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/neal-pollack">Neal Pollack</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/raveonettes-sune-rose-wagner">The Raveonettes (Sune Rose Wagner)</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/rilo-kiley-jenny-lewis">Rilo Kiley (Jenny Lewis)</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/soundtrack-our-lives-martin-hederos" class="active">The Soundtrack of our Lives (Martin Hederos)</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/spoon-britt-daniel">Spoon (Britt Daniel)</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/st-vincent-annie-clark">St. Vincent (Annie Clark)</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/supergrass-gaz-coombes">Supergrass (Gaz Coombes)</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/tapes-n-tapes">Tapes &#039;n Tapes</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/luke-temple">Luke Temple</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/john-vanderslice">John Vanderslice</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/rufus-wainwright">Rufus Wainwright</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/what-made-milwaukee-famous-jeremy-bruch">What Made Milwaukee Famous (Jeremy Bruch)</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/white-rabbits">White Rabbits</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/wrens">The Wrens</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/yacht">YACHT </a></div></div>
+</li></ul></div></div></div>
+          </div> <!-- /content -->
+  </div> <!-- /blockinner -->
+</div> <!-- /block -->
+<div id="block-menu-75" class="block block-menu even">  
+  <div class="blockinner">
+        <div class="content">
+      
+<ul class="menu">
+<li class="leaf mid-76"><a href="/kitchen">Jen&#039;s Kitchen</a></li>
+<li class="leaf mid-78"><a href="/recipes">Recipes</a></li>
+
+</ul>
+          </div> <!-- /content -->
+  </div> <!-- /blockinner -->
+</div> <!-- /block -->
+        </div> <!-- /sidebar-left -->
+      
+<p id="copyright">All content copyright &copy; Jennifer Robbins and Jenville Productions</p>
+</div>
+<script type="text/javascript" src="http://www.google-analytics.com/urchin.js"></script>
+<script type="text/javascript">
+_uacct = "UA-3006934-1";urchinTracker();
+</script>
+<script type="text/javascript" src="/sites/all/modules/contrib/google_analytics/downloadtracker.js"></script>
+</body></html>

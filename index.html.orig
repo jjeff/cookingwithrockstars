@@ -1,0 +1,275 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head><title>Home | Cooking With Rockstars</title>  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="/files/cwr_favicon.gif" type="image/x-icon" />
+  <style type="text/css" media="all">@import "/modules/forum/forum.css";</style>
+<style type="text/css" media="all">@import "/modules/node/node.css";</style>
+<style type="text/css" media="all">@import "/modules/system/defaults.css";</style>
+<style type="text/css" media="all">@import "/modules/system/system.css";</style>
+<style type="text/css" media="all">@import "/modules/user/user.css";</style>
+<style type="text/css" media="all">@import "/sites/all/modules/contrib/cck/content.css";</style>
+<style type="text/css" media="all">@import "/sites/all/modules/contrib/cck/fieldgroup.css";</style>
+<style type="text/css" media="all">@import "/sites/all/modules/contrib/date/date.css";</style>
+<style type="text/css" media="all">@import "/sites/all/modules/contrib/devel/devel.css";</style>
+<style type="text/css" media="all">@import "/sites/all/themes/engines/zengine/css/zengine.css";</style>
+<style type="text/css" media="all">@import "/sites/all/themes/engines/zengine/css/style.css";</style>
+<style type="text/css" media="all">@import "/sites/all/themes/cwr/css/cwr-home.css";</style>
+<style type="text/css" media="print">@import "/sites/all/themes/engines/zengine/css/print.css";</style>
+  <script type="text/javascript" src="/misc/jquery.js"></script>
+<script type="text/javascript" src="/misc/drupal.js"></script>
+<script type="text/javascript">Drupal.extend({ settings: { "googleanalytics": { "trackDownload": "pdf|zip|mp3" } } });</script>
+  <!--[if IE 6]>    <link rel="stylesheet" type="text/css" media="all" href="/sites/all/themes/cwr/css/ie7.css" />  <![endif]-->  <script type="text/javascript"> </script> </head><body id="any" class="front not-logged-in ntype-page node-page both-sidebars"><div id="container"><div id="header">  <h1 id='site-name'>    <a href="/" title="Home" rel="home">      <span>Cooking With Rockstars</span>    </a>  </h1>      <div id="navigation" class="menu withprimary ">                      <div id="primary" class="clear-block">              <ul class="links-menu">
+<li><a href="/">home</a></li>
+<li><a href="/kitchen">blog</a></li>
+<li><a href="/recipes">recipes</a></li>
+<li><a href="/about">about the show</a></li>
+<li><a href="/contact">contact</a></li>
+<li><a href="/subscribe">subscribe</a></li>
+</ul>            </div>                                    </div> <!-- /navigation -->    </div><div id="content">  <div id="content-content">
+                                        <div class="messages error">
+ <ul>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>warning: Parameter 1 to theme_field() expected to be a reference, value given in /home/cookingw/public_html/includes/theme.inc on line 170.</li>
+  <li>warning: Parameter 1 to theme_field() expected to be a reference, value given in /home/cookingw/public_html/includes/theme.inc on line 170.</li>
+  <li>warning: Parameter 1 to theme_field() expected to be a reference, value given in /home/cookingw/public_html/includes/theme.inc on line 170.</li>
+  <li>warning: Parameter 1 to theme_field() expected to be a reference, value given in /home/cookingw/public_html/includes/theme.inc on line 170.</li>
+  <li>warning: Parameter 1 to theme_field() expected to be a reference, value given in /home/cookingw/public_html/includes/theme.inc on line 170.</li>
+  <li>warning: Parameter 1 to theme_field() expected to be a reference, value given in /home/cookingw/public_html/includes/theme.inc on line 170.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>warning: Parameter 1 to theme_field() expected to be a reference, value given in /home/cookingw/public_html/includes/theme.inc on line 170.</li>
+  <li>warning: Parameter 1 to theme_field() expected to be a reference, value given in /home/cookingw/public_html/includes/theme.inc on line 170.</li>
+  <li>warning: Parameter 1 to theme_field() expected to be a reference, value given in /home/cookingw/public_html/includes/theme.inc on line 170.</li>
+  <li>warning: Parameter 1 to theme_field() expected to be a reference, value given in /home/cookingw/public_html/includes/theme.inc on line 170.</li>
+  <li>warning: Parameter 1 to theme_field() expected to be a reference, value given in /home/cookingw/public_html/includes/theme.inc on line 170.</li>
+  <li>warning: Parameter 1 to theme_field() expected to be a reference, value given in /home/cookingw/public_html/includes/theme.inc on line 170.</li>
+  <li>warning: Parameter 1 to theme_field() expected to be a reference, value given in /home/cookingw/public_html/includes/theme.inc on line 170.</li>
+  <li>warning: Parameter 1 to theme_field() expected to be a reference, value given in /home/cookingw/public_html/includes/theme.inc on line 170.</li>
+  <li>warning: Parameter 1 to theme_field() expected to be a reference, value given in /home/cookingw/public_html/includes/theme.inc on line 170.</li>
+  <li>warning: Parameter 1 to theme_field() expected to be a reference, value given in /home/cookingw/public_html/includes/theme.inc on line 170.</li>
+  <li>warning: Parameter 1 to theme_field() expected to be a reference, value given in /home/cookingw/public_html/includes/theme.inc on line 170.</li>
+  <li>warning: Parameter 1 to theme_field() expected to be a reference, value given in /home/cookingw/public_html/includes/theme.inc on line 170.</li>
+  <li>warning: Parameter 1 to theme_field() expected to be a reference, value given in /home/cookingw/public_html/includes/theme.inc on line 170.</li>
+  <li>warning: Parameter 1 to theme_field() expected to be a reference, value given in /home/cookingw/public_html/includes/theme.inc on line 170.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+ </ul>
+</div>
+                    <div id="main"><div class="node ntype-page even" id="node-160">
+  
+    
+  
+    
+  <div class="content">
+    <div class='view view-frontpage'><div class='view-content view-content-frontpage'><div class="home-feature">
+  <h2 id="featuring">Featuring</h2>
+  <h3 id="artist"><a href="/artist/dresden-dolls-brian-viglione">The Dresden Dolls (Brian Viglione)</a></h3>
+  <div class="teaser"><p>Brian Viglione, drummer for the Dresden Dolls, prepares the delicious Viglione Family Sauce in his kitchen in Jamaica Plain (MA).</p>
+  <p><a href="/artist/dresden-dolls-brian-viglione">Go to this artist's page</a></p></div>
+  <div class="player">
+    <object
+    type="application/x-shockwave-flash"
+    classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"
+    codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0"
+    width="480"
+    height="390"
+    id="showplayer"
+    allowfullscreen="true"
+    allowscriptaccess="always"
+    autoStart="false"
+    >
+
+     <param name="movie"
+       value="http://blip.tv/scripts/flash/showplayer.swf?file=http%3A//blip.tv/rss/flash/1474865"
+     />
+     <param name="allowscriptaccess" value="always" />
+     <param name="allowfullscreen" value="true" />
+     <param name="quality" value="best" />
+     <param name="wmode" value="window" />
+     <embed
+        type="application/x-shockwave-flash"
+        width="480"
+        height="390"
+        id="shoplayerembed"
+        name="showplayer"
+        src="http://blip.tv/scripts/flash/showplayer.swf?file=http%3A//blip.tv/rss/flash/1474865"
+        pluginspage="http://www.macromedia.com/go/getflashplayer"
+        wmode="window"
+        allowfullscreen="true"
+        allowscriptaccess="always"
+     />
+</object>  </div>
+</div>
+  <div class="recently"><h2 id="recent">Recently</h2>
+<div class="node view-node">
+  <a class="image icon" href="/artist/all-nots"><img src="http://cookingwithrockstars.com/files/thumbnails/allfornots-icon.png" alt="" title="" width="75" height="60" /></a><span class="name"><a href="/artist/all-nots">The All For Nots</a></span><br />
+  <p>Erica, drummer for The All-for-Nots, prepares an Italian feast in her Brooklyn backyard featuring the Cesina family sausage.</p>
+</div>
+  
+<div class="node view-node">
+  <a class="image icon" href="/artist/nada-surf"><img src="http://cookingwithrockstars.com/files/thumbnails/nadasurf-icon.png" alt="" title="" width="75" height="60" /></a><span class="name"><a href="/artist/nada-surf">Nada Surf</a></span><br />
+  <p>Daniel prepares an arugula salad with smoked tomatoes, goat cheese, grilled avocados, and tomato jam for 28 friends.</p>
+</div>
+  </div></div></div>
+<h2 class="faves">Fan favorites</h2><div class="fanfaves"><div class='view view-featured'><div class='view-content view-content-featured'>
+<div class="node view-node">
+  <a class="image icon" href="/artist/rufus-wainwright"><img src="http://cookingwithrockstars.com/files/thumbnails/rufuswainwright-icon.gif" alt="" title="" width="75" height="60" /></a><span class="name"><a href="/artist/rufus-wainwright">Rufus Wainwright</a></span><br />
+  <p><em>not</em> cooking in NYC... his mother&#8217;s borscht&#8230; head cheese</p>
+</div>
+  
+<div class="node view-node">
+  <a class="image icon" href="/artist/jack-black"><img src="http://cookingwithrockstars.com/files/thumbnails/jackblack-icon.gif" alt="" title="" width="75" height="60" /></a><span class="name"><a href="/artist/jack-black">Jack Black</a></span><br />
+  <p>Dorito Burritos&#8230; mac-n-chee&#8230; korma nirvana</p>
+</div>
+  
+<div class="node view-node">
+  <a class="image icon" href="/artist/robyn-hitchcock-part-1"><img src="http://cookingwithrockstars.com/files/thumbnails/robynhitchcock1-icon.png" alt="" title="" width="75" height="60" /></a><span class="name"><a href="/artist/robyn-hitchcock-part-1">Robyn Hitchcock, Part 1</a></span><br />
+  <p>The primordial ooze at the conception of all his dishes&#8230; how to make Food Pie&#8230; why there are no parsnips in Heaven</p>
+</div>
+  
+<div class="node view-node">
+  <a class="image icon" href="/artist/spoon-britt-daniel"><img src="http://cookingwithrockstars.com/files/thumbnails/spoon-icon.png" alt="" title="" width="75" height="60" /></a><span class="name"><a href="/artist/spoon-britt-daniel">Spoon (Britt Daniel)</a></span><br />
+  <p>feeding a sweet tooth&#8230; where to eat in Austin&#8230; what to do with Cinnamon Toast Crunch cereal&#8230;</p>
+</div>
+  
+<div class="node view-node">
+  <a class="image icon" href="/artist/ben-gibbard-death-cab-cutie-postal-service"><img src="http://cookingwithrockstars.com/files/thumbnails/bengibbard-icon.gif" alt="" title="" width="75" height="60" /></a><span class="name"><a href="/artist/ben-gibbard-death-cab-cutie-postal-service">Ben Gibbard (Death Cab for Cutie, The Postal Service)</a></span><br />
+  <p>Impatience and Utility&#8230; tour bus food&#8230; peanut butter veggie sausage toast</p>
+</div>
+  </div></div></div>
+</div>      </div>
+  
+   
+</div>
+
+        <div id="mainbottom"> </div></div>          
+              <div id="info" class="column sidebar">
+                    <div id="block-views-homenews" class="block block-views odd">  
+  <div class="blockinner">
+        <div class="content">
+      <div class='view view-homenews'><div class='view-content view-content-homenews'><div class="item-list"><ul><li><div class='view-item view-item-homenews'><div class='view-field view-data-node-created'>11/14/08</div><div class='view-field view-data-node-body'><p>I&#8217;m very pleased to post this lovely interview with Brian Viglione of The Dresden Dolls. This interview was shot <em>months</em> ago, but it was caught in a very long publishing queue. It&#8217;s too bad, because I don&#8217;t think anyone has been as enthusiastic to cook on my show as Brian, so it has pained me to make him wait. He&#8217;s a master at the drums and in the kitchen, and a sweetheart all around. Enjoy!</p>
+</div></div>
+</li></ul></div></div><div class='more-link'><a href="/news">more</a></div></div>
+          </div> <!-- /content -->
+  </div> <!-- /blockinner -->
+</div> <!-- /block -->
+        </div> <!-- /info -->
+                
+   </div> <!-- /content-content -->
+              <div id="sidebar-left" class="column sidebar">
+          <div id="block-views-interviews" class="block block-views odd">  
+  <div class="blockinner">
+    <h2 class="title block-title"><span>Interviews</span></h2>    <div class="content">
+      <div class='view view-interviews'><div class='view-header view-header-interviews'><p>(alphabetical order)</p>
+</div>
+<div class='view-content view-content-interviews'><div class="item-list"><ul><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/all-nots">The All For Nots</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/apples-stereo-robert-schneider">Apples in Stereo (Robert Schneider)</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/beulah-miles-kurosky">Beulah (Miles Kurosky)</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/jack-black">Jack Black</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/dresden-dolls-brian-viglione">The Dresden Dolls (Brian Viglione)</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/enon-john-schmersal-and-toko-yasuda">Enon (John Schmersal and Toko Yasuda)</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/fruit-bats">Fruit Bats</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/ben-gibbard-death-cab-cutie-postal-service">Ben Gibbard (Death Cab for Cutie, The Postal Service)</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/robyn-hitchcock-part-1">Robyn Hitchcock, Part 1</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/robyn-hitchcock-part-2">Robyn Hitchcock, Part 2</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/interpol-sam-fogarino">Interpol (Sam Fogarino)</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/iron-and-wine-sam-beam">Iron and Wine (Sam Beam)</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/ben-kweller">Ben Kweller</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/liam-lynch">Liam Lynch</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/matt-and-kim">Matt and Kim</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/rhett-miller-old97s-and-solo">Rhett Miller (Old97s and solo)</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/nada-surf">Nada Surf</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/new-pornographers">The New Pornographers</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/okkervil-river-will-sheff-jonathan-meiburg">Okkervil River (Will Sheff, Jonathan Meiburg)</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/neal-pollack">Neal Pollack</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/raveonettes-sune-rose-wagner">The Raveonettes (Sune Rose Wagner)</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/rilo-kiley-jenny-lewis">Rilo Kiley (Jenny Lewis)</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/soundtrack-our-lives-martin-hederos">The Soundtrack of our Lives (Martin Hederos)</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/spoon-britt-daniel">Spoon (Britt Daniel)</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/st-vincent-annie-clark">St. Vincent (Annie Clark)</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/supergrass-gaz-coombes">Supergrass (Gaz Coombes)</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/tapes-n-tapes">Tapes &#039;n Tapes</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/luke-temple">Luke Temple</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/john-vanderslice">John Vanderslice</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/rufus-wainwright">Rufus Wainwright</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/what-made-milwaukee-famous-jeremy-bruch">What Made Milwaukee Famous (Jeremy Bruch)</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/white-rabbits">White Rabbits</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/wrens">The Wrens</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/yacht">YACHT </a></div></div>
+</li></ul></div></div></div>
+          </div> <!-- /content -->
+  </div> <!-- /blockinner -->
+</div> <!-- /block -->
+<div id="block-menu-75" class="block block-menu even">  
+  <div class="blockinner">
+        <div class="content">
+      
+<ul class="menu">
+<li class="leaf mid-76"><a href="/kitchen">Jen&#039;s Kitchen</a></li>
+<li class="leaf mid-78"><a href="/recipes">Recipes</a></li>
+
+</ul>
+          </div> <!-- /content -->
+  </div> <!-- /blockinner -->
+</div> <!-- /block -->
+        </div> <!-- /sidebar-left -->
+      
+<p id="copyright">All content copyright &copy; Jennifer Robbins and Jenville Productions</p>
+</div>
+<script type="text/javascript" src="http://www.google-analytics.com/urchin.js"></script>
+<script type="text/javascript">
+_uacct = "UA-3006934-1";urchinTracker();
+</script>
+<script type="text/javascript" src="/sites/all/modules/contrib/google_analytics/downloadtracker.js"></script>
+</body></html>

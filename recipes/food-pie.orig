@@ -1,0 +1,161 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head><title>Food Pie | Cooking With Rockstars</title>  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="/files/cwr_favicon.gif" type="image/x-icon" />
+  <style type="text/css" media="all">@import "/modules/forum/forum.css";</style>
+<style type="text/css" media="all">@import "/modules/node/node.css";</style>
+<style type="text/css" media="all">@import "/modules/system/defaults.css";</style>
+<style type="text/css" media="all">@import "/modules/system/system.css";</style>
+<style type="text/css" media="all">@import "/modules/user/user.css";</style>
+<style type="text/css" media="all">@import "/sites/all/modules/contrib/cck/content.css";</style>
+<style type="text/css" media="all">@import "/sites/all/modules/contrib/cck/fieldgroup.css";</style>
+<style type="text/css" media="all">@import "/sites/all/modules/contrib/date/date.css";</style>
+<style type="text/css" media="all">@import "/sites/all/modules/contrib/devel/devel.css";</style>
+<style type="text/css" media="all">@import "/sites/all/themes/engines/zengine/css/zengine.css";</style>
+<style type="text/css" media="all">@import "/sites/all/themes/cwr/css/cwr-2nd.css";</style>
+<style type="text/css" media="print">@import "/sites/all/themes/engines/zengine/css/print.css";</style>
+  <script type="text/javascript" src="/misc/jquery.js"></script>
+<script type="text/javascript" src="/misc/drupal.js"></script>
+<script type="text/javascript">Drupal.extend({ settings: { "googleanalytics": { "trackDownload": "pdf|zip|mp3" } } });</script>
+  <!--[if IE 6]>    <link rel="stylesheet" type="text/css" media="all" href="/sites/all/themes/cwr/css/ie7.css" />  <![endif]-->  <script type="text/javascript"> </script> </head><body id="recipes" class="not-front not-logged-in ntype-recipe node-page both-sidebars"><div id="container"><div id="header">  <h1 id='site-name'>    <a href="/" title="Home" rel="home">      <span>Cooking With Rockstars</span>    </a>  </h1>      <div id="navigation" class="menu withprimary ">                      <div id="primary" class="clear-block">              <ul class="links-menu">
+<li><a href="/">home</a></li>
+<li><a href="/kitchen">blog</a></li>
+<li><a href="/recipes">recipes</a></li>
+<li><a href="/about">about the show</a></li>
+<li><a href="/contact">contact</a></li>
+<li><a href="/subscribe">subscribe</a></li>
+</ul>            </div>                                    </div> <!-- /navigation -->    </div><div id="content">  <div id="content-content">
+          <h2 id="recipe-head">Recipes</h2>                              <div class="messages error">
+ <ul>
+  <li>warning: Parameter 1 to theme_field() expected to be a reference, value given in /home/cookingw/public_html/includes/theme.inc on line 170.</li>
+  <li>warning: Parameter 1 to theme_field() expected to be a reference, value given in /home/cookingw/public_html/includes/theme.inc on line 170.</li>
+  <li>warning: Parameter 1 to theme_field() expected to be a reference, value given in /home/cookingw/public_html/includes/theme.inc on line 170.</li>
+  <li>warning: Parameter 1 to theme_field() expected to be a reference, value given in /home/cookingw/public_html/includes/theme.inc on line 170.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+  <li>: Function ereg() is deprecated in /home/cookingw/public_html/includes/file.inc on line 647.</li>
+ </ul>
+</div>
+                    <div id="main"><div class="node ntype-recipe odd" id="node-185">
+  
+    
+  <div class="content">
+    <div class="recipe-item">
+  <h3>Food Pie</h3>
+  
+  <div class="submitted-by">submitted by: <p>Robyn Hitchcock</p>
+</div>
+  
+  <div class="recipe-note"><p>Take a deep breath and clear your cooking area. Chose what kind of music or silence you want to listen to. Brian Eno&#8217;s Music For Fungus would be great. Range up your ingredients so you can access them when the moment comes and not be rummaging through the cupboard in a shower of weevils while your kitchen ignites.  My Food Pie features:</p>
+</div>
+
+  <h4>Ingredients</h4>
+  <p>Olive Oil &#8211; Onions &#8211; garlic &#8211; potatoes &#8211; lentils &#8211; a bay leaf or two &#8211; vegetable stock/yeast extract &#8211; parmesan cheese &#8211; peppers &#8211; celery (very optional) &#8211; peas (if you got time) &#8211; tomatoes &#8211; fresh button mushrooms (optional) &#8211; eggplant &#8211; broccoli and beyond. Wash everything unless you like guest bugs in your pie.</p>
+<p>	If you can enjoy turnips, parsnips and swedes, that trio of low-life root vegetables, then add them to the mix. </p>
+<p>	If you are a fishaterian, include tuna and anchovies.</p>
+
+  <h4>Instructions</h4>
+  <p>Drop the needle on your LP of choice, take another deep breath and start. </p>
+<p>	Take a bulb of fresh garlic and chop three or four cloves from it, finely. Mix those choppings in with one onion that you slice into atoms.</p>
+<p>	Heat up a saucepan with a little olive oil in it and tip in the garlic and onions.</p>
+<p>	Wash some lentils and keep them brooding nearby. Similarly wash a few potatoes (all quantities depend on how many you&#8217;re cooking for, dude) and quarter them to speed their boiling, which is what you do to them next. They are headed for mashville.</p>
+<p>	After initial heat, let the garlic and onions soften in the olive oil. Try not to burn them savagely.<br />
+Add the bay leaf, a teaspoon of Marmite or other yeast extract, and heat up some vegetable stock. Now is the time for anchovies. Then add the vegetable parade of your taste:  mushrooms, tomato, eggplant and so on, all chopped but not beyond recognition. Food Pie works best if the ingredients can still be distinguished when it&#8217;s served up, rather than being cooked into an unrecognizeable slop. Your digestive system does that for you later.</p>
+<p>	On another hob, cook the lentils.</p>
+<p>	Flip the disc.  Side 2 of Music For Fungus is just dandy. If you are adding tuna, open the tin now and keep it away from the cat. Wave some celery at the cat to confuse it, and then give it a little tuna on a fork in another room if you feel guilty about confusing it. Add the rest to the lentils</p>
+<p>	Prod the potatoes with a fork &#8211; pretend they are the souls of the damned, and you are God. Or the Devil. Whoever it is that wields the fork, anyhow. You get the same justice from both of them, which is why so many subscribers are moving to Buddha. Why should people suffer more than they have already? And why should potatoes be overcooked? Once they are yielding to the soft plunge of your fork, drain away the water (it makes good stock for soup or gravy) and leave the potatoes off the boil (i.e, don&#8217;t put the saucepan back on the hot hob). </p>
+<p>	Turn on the oven, by whatever means necessary. Not as hot as the Devil might like it.</p>
+<p>	By now you should have a brew of vegetables crackling in an aromatic frenzy before you. If you can multi-task, add butter or milk to the cooling potatoes and mash them. It is possible to out-source some of the vegetables &#8211; peas, or broccoli, for example &#8211; and boil them at the last minute in another pan, so you can serve them outside of the Pie.</p>
+<p>	Now tip the pans of vegetables, lentils, and possibly fish into a sarcophagus-shaped dish known to the 20th century as a casserole. Level them out and pave them over with mashed potato. Grate parmesan over the potato, and insert the casserole into the Devil-lite oven. </p>
+<p>	By now side 2 is over, and you will need silence to concentrate on serving up the pie with ketchup, horseradish, mustard and other agents. Bake the pie till the wind starts howling and the demons thrash against the oven door; wait above all for the moon to swim with her wan face against the cobwebbed window. And check that the cheese is melting nicely into the browning potato before you serve  the pie. Keep plenty of water and juice on hand: this is a savoury dish. </p>
+<p>	<strong>Famous Food Pie lovers</strong>: Marie Curie, Joey Ramone, Rod Steiger, Florence Nightingale, Bryan Ferry</p>
+<p>	<strong>Don&#8217;t Knows</strong>: Oscar Wilde, William Shakespeare, Emperor Charlemagne, Babe Ruth, Eleanor Roosevelt</p>
+<p>	<strong>Not For Us</strong>:  Sting, The Montgolfier Brothers, Lowell George, Tippi Hedren, Murray the K</p>
+<p>	&#8220;He that hath no stomach for food pye, let him eat hessian&#8221; &#8211; Samuel Pepys</p>
+</div> <!-- recipe-item -->      </div>
+  
+   
+</div>
+
+        <div id="mainbottom"> </div></div>          
+              <div id="info" class="column sidebar">
+                    <div id="block-block-3" class="block block-block odd">  
+  <div class="blockinner">
+        <div class="content">
+      <div class="item-list"><h3>Appetizers</h3><ul><li><a href="/recipes/texas-tapenade">Texas Tapenade</a></li><li><a href="/recipes/piggy-prunes">Piggy Prunes</a></li></ul></div><div class="item-list"><h3>Main dishes</h3><ul><li><a href="/recipes/viglione-family-sauce">The Viglione Family Sauce</a></li><li><a href="/recipes/cesinas-sausage-tomato-sauce">Cesina&#039;s Sausage in Tomato Sauce</a></li><li><a href="/recipes/lamb-tagine">Lamb Tagine</a></li><li><a href="/recipes/jens-favorite-chili">Jen&#039;s Favorite Chili</a></li><li><a href="/recipes/crock-pot-recipe-du-jour-shredded-pork">Crock Pot Recipe du Jour (Shredded Pork)</a></li><li><a href="/recipes/longburger">Longburger</a></li><li><a href="/recipes/f-you-macaroni-and-cheese">F#*% You Macaroni and Cheese</a></li><li><a href="/recipes/food-pie" class="active">Food Pie</a></li><li><a href="/recipes/running-avocado">The Running Avocado</a></li><li><a href="/recipes/john-vanderslices-variation-puttanesca">John Vanderslice&#039;s Variation on Puttanesca</a></li></ul></div><div class="item-list"><h3>Soup</h3><ul><li><a href="/recipes/coconut-corn-chowder-vegan">Coconut-Corn Chowder (vegan)</a></li><li><a href="/recipes/polish-cabbage-soup">Polish Cabbage Soup</a></li><li><a href="/recipes/kate-mcgarrigles-borsht">Kate McGarrigle&#039;s Borsht</a></li><li><a href="/recipes/neal-pollacks-simple-seafood-soup">Neal Pollack&#039;s Simple Seafood Soup</a></li><li><a href="/recipes/shrimp-and-celery-bisque">Shrimp and Celery Bisque</a></li></ul></div><div class="item-list"><h3>Salads</h3><ul><li><a href="/recipes/arugula-salad-smoked-tomatoes-grilled-avocados-and-tomato-jam">Arugula Salad with Smoked Tomatoes, Grilled Avocados, and Tomato Jam</a></li><li><a href="/recipes/carrot-salad">Carrot Salad</a></li><li><a href="/recipes/simple-spinach-salad">Simple Spinach Salad</a></li><li><a href="/recipes/corn-and-bean-salad">Corn and Bean Salad</a></li><li><a href="/recipes/tomato-and-mozzarella-salad">Tomato and Mozzarella Salad</a></li><li><a href="/recipes/citrus-couscous-salad">Citrus Couscous Salad</a></li><li><a href="/recipes/asian-chicken-salad">Asian Chicken Salad</a></li><li><a href="/recipes/couscous-salad-peas-and-mint">Couscous salad with peas and mint</a></li><li><a href="/recipes/spicy-cucumber-salad-peanuts">Spicy Cucumber Salad with Peanuts</a></li><li><a href="/recipes/tomato-and-sumac-salad">Tomato and Sumac Salad</a></li></ul></div><div class="item-list"><h3>Sides</h3><ul><li><a href="/recipes/costanza-broccoli">Costanza Broccoli</a></li><li><a href="/recipes/george-foreman-grilled-vegetables">George Foreman Grilled Vegetables</a></li><li><a href="/recipes/corn-and-bean-salad">Corn and Bean Salad</a></li><li><a href="/recipes/potato-pancakes">Potato Pancakes</a></li></ul></div><div class="item-list"><h3>Desserts</h3><ul><li><a href="/recipes/chocolate-caramel-tart-sea-salt">Chocolate Caramel Tart with Sea Salt</a></li><li><a href="/recipes/cinnamon-toast-crunch-and-ice-cream">Cinnamon Toast Crunch and Ice Cream</a></li><li><a href="/recipes/e-z-bourbon-balls">E-Z Bourbon Balls</a></li><li><a href="/recipes/green-glop">Green Glop</a></li><li><a href="/recipes/chocolate-bourbon-pecan-pie">Chocolate Bourbon Pecan Pie</a></li><li><a href="/recipes/chocolate-kahlua-trifle">Chocolate-Kahlua Trifle</a></li></ul></div><div class="item-list"><h3>Breakfast</h3><ul><li><a href="/recipes/chris-wallas-peanut-butter-veggie-sausage-toast">Chris Walla&#039;s Peanut Butter Veggie Sausage Toast</a></li></ul></div><div class="item-list"><h3>Drinks</h3><ul><li><a href="/recipes/worlds-best-drink">World&#039;s Best Drink</a></li></ul></div><div class="item-list"><h3>Sauces & condiments</h3><ul><li><a href="/recipes/smoked-tomatoes-and-portabellas">Smoked Tomatoes and Portabellas</a></li><li><a href="/recipes/vegan-worcestershire-sauce">Vegan Worcestershire Sauce</a></li><li><a href="/recipes/mogis-gravy">Mogis Gravy</a></li></ul></div><div class="item-list"><h3>Baked goods</h3><ul><li><a href="/recipes/really-good-toast">Really Good Toast</a></li></ul></div>          </div> <!-- /content -->
+  </div> <!-- /blockinner -->
+</div> <!-- /block -->
+        </div> <!-- /info -->
+                
+   </div> <!-- /content-content -->
+              <div id="sidebar-left" class="column sidebar">
+          <div id="block-views-interviews" class="block block-views odd">  
+  <div class="blockinner">
+    <h2 class="title block-title"><span>Interviews</span></h2>    <div class="content">
+      <div class='view view-interviews'><div class='view-header view-header-interviews'><p>(alphabetical order)</p>
+</div>
+<div class='view-content view-content-interviews'><div class="item-list"><ul><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/all-nots">The All For Nots</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/apples-stereo-robert-schneider">Apples in Stereo (Robert Schneider)</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/beulah-miles-kurosky">Beulah (Miles Kurosky)</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/jack-black">Jack Black</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/dresden-dolls-brian-viglione">The Dresden Dolls (Brian Viglione)</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/enon-john-schmersal-and-toko-yasuda">Enon (John Schmersal and Toko Yasuda)</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/fruit-bats">Fruit Bats</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/ben-gibbard-death-cab-cutie-postal-service">Ben Gibbard (Death Cab for Cutie, The Postal Service)</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/robyn-hitchcock-part-1">Robyn Hitchcock, Part 1</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/robyn-hitchcock-part-2">Robyn Hitchcock, Part 2</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/interpol-sam-fogarino">Interpol (Sam Fogarino)</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/iron-and-wine-sam-beam">Iron and Wine (Sam Beam)</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/ben-kweller">Ben Kweller</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/liam-lynch">Liam Lynch</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/matt-and-kim">Matt and Kim</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/rhett-miller-old97s-and-solo">Rhett Miller (Old97s and solo)</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/nada-surf">Nada Surf</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/new-pornographers">The New Pornographers</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/okkervil-river-will-sheff-jonathan-meiburg">Okkervil River (Will Sheff, Jonathan Meiburg)</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/neal-pollack">Neal Pollack</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/raveonettes-sune-rose-wagner">The Raveonettes (Sune Rose Wagner)</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/rilo-kiley-jenny-lewis">Rilo Kiley (Jenny Lewis)</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/soundtrack-our-lives-martin-hederos">The Soundtrack of our Lives (Martin Hederos)</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/spoon-britt-daniel">Spoon (Britt Daniel)</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/st-vincent-annie-clark">St. Vincent (Annie Clark)</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/supergrass-gaz-coombes">Supergrass (Gaz Coombes)</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/tapes-n-tapes">Tapes &#039;n Tapes</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/luke-temple">Luke Temple</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/john-vanderslice">John Vanderslice</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/rufus-wainwright">Rufus Wainwright</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/what-made-milwaukee-famous-jeremy-bruch">What Made Milwaukee Famous (Jeremy Bruch)</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/white-rabbits">White Rabbits</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/wrens">The Wrens</a></div></div>
+</li><li><div class='view-item view-item-interviews'><div class='view-field view-data-node-title'><a href="/artist/yacht">YACHT </a></div></div>
+</li></ul></div></div></div>
+          </div> <!-- /content -->
+  </div> <!-- /blockinner -->
+</div> <!-- /block -->
+<div id="block-menu-75" class="block block-menu even">  
+  <div class="blockinner">
+        <div class="content">
+      
+<ul class="menu">
+<li class="leaf mid-76"><a href="/kitchen">Jen&#039;s Kitchen</a></li>
+<li class="leaf mid-78"><a href="/recipes">Recipes</a></li>
+
+</ul>
+          </div> <!-- /content -->
+  </div> <!-- /blockinner -->
+</div> <!-- /block -->
+        </div> <!-- /sidebar-left -->
+      
+<p id="copyright">All content copyright &copy; Jennifer Robbins and Jenville Productions</p>
+</div>
+<script type="text/javascript" src="http://www.google-analytics.com/urchin.js"></script>
+<script type="text/javascript">
+_uacct = "UA-3006934-1";urchinTracker();
+</script>
+<script type="text/javascript" src="/sites/all/modules/contrib/google_analytics/downloadtracker.js"></script>
+</body></html>
