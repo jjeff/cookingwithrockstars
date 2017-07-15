@@ -1,1 +1,763 @@
-/*  ------------------- ALL SECOND-LEVEL PAGES SHARE THESE STYLES --------------------- */body {  font-family:  Verdana, sans-serif;  font-size: 69%;  color: #333;  background: #9acccc;  margin: 0;  padding: 0;  }  #content div.tabs {  z-index: 38;  position: absolute;}  ul {  list-style-type: none;  padding: 0;  }.item-list ul {  padding-left: 0;  margin-left: 0;}span.name {  font-weight: bold;  font-style: italic;}.item-list ul li {  list-style-type: none;  padding: 0;}  ul.menu li.leaf {  list-style-image: none;  list-style-type: none;}#container {  background: url(../images/bkgd_redboxnav.gif) top left no-repeat;  width: 920px;  margin: 0 auto;  position: relative;  }    /*  PAGE LINK STYLES  */a:link, a:visited {  color: #006666;  text-decoration: none;  } a:hover {  color:#009999;  text-decoration: none;  border-bottom: 1px solid #00CCCC;}h1#site-name {  margin: 0;}h1#site-name a:hover {  border-bottom: none;}/*  HEADER STYLES */#header h1 a {  background: url(../images/cwr_sm_header.gif) no-repeat top left scroll;  width: 308px;  height: 52px;  margin: 0;  margin-left: 10px;  display:block; } #header h1 a span {   left:-999em;   position:relative;   font-size: .5em; }#header ul {  width: 590px;  margin: 0;  position: relative;  top: -27px;  left: 330px;  height: 2px;  }  #header ul li {  display: inline;  margin-right: 1em;  padding: 0;  }   #header a, #header a:visited {   color: #fff;   text-decoration: none;   }    #header a:hover {   border-bottom: 1px dotted white;   }/*  END HEADER STYLES *//*  SCROLLING INTERVIEW NAV BOX  */#block-views-interviews {  width: 188px;  height: 296px;  overflow: auto;  margin: 0 10px;  position: absolute;  top: 71px;  left: 15px;  padding-top: 6px;}#block-views-interviews h2 {  font-size: 1em;  text-transform: uppercase;  letter-spacing: 3px;  border-bottom: 1px solid #fff;}#block-views-interviews ul {  margin: 0;}#block-views-interviews ul li {   text-indent: 0px;   margin: .7em 0;   }   #block-views-interviews a, #block-views-interviews a:visited {  color:#066;  text-decoration: none;  }  #block-views-interviews a:hover {   text-decoration: underline;     border-bottom: none;    }/*  END SCROLLING NAV BOX *//* GRAPHICAL SECTION LINKS */#block-menu-75 {  position:absolute;  top: 370px;  left: 20px;  }  #block-menu-75 ul.menu li {  margin: 6px 0;  }#block-menu-75 ul.menu a {  display: block;  width: 180px;  text-indent: -999em;}#block-menu-75 ul.menu a:hover {  border: none 0;}#block-menu-75 .mid-76 a {  height: 50px;  background: transparent url(../images/jenskitchen_button.png) top left no-repeat;}#block-menu-75 .mid-76 a:hover {  background: transparent url(../images/jenskitchen_button.png) bottom left no-repeat;}/*#block-menu-75 .mid-77 a {  height: 33px;  background: transparent url(../images/shop_button.png) top left no-repeat;}#block-menu-75 .mid-77 a:hover {  background: transparent url(../images/shop_button.png) bottom left no-repeat;}*/#block-menu-75 .mid-77 a {  height: 33px;  background: transparent url(../images/discuss_button.png) top left no-repeat;}#block-menu-75 .mid-77 a:hover {  background: transparent url(../images/discuss_button.png) bottom left no-repeat;}#block-menu-75 .mid-78 a {  height: 33px;  background: transparent url(../images/recipes_button.png) top left no-repeat;}#block-menu-75 .mid-78 a:hover {  background: transparent url(../images/recipes_button.png) bottom left no-repeat;}/* END GRAPHICAL SECTION LINKS */  /* -----------------------------END SHARED STYLES --------------------------- */  /* ---------------- MORE LAYOUT STYLES, PAGE-SPECIFIC ------------------------ */#content {  width: 700px;  margin-left: 220px;  background: url(../images/content_top_white.png) top left no-repeat;  margin-bottom: 0;  padding-bottom: 0;}  #kitchen #content,#recipes #content {  background: url(../images/content_top_bar.png) top left no-repeat;}  #content-content {  min-height: 500px;  padding:20px 10px 20px 35px;  }#main {  float: left;  width: 469px;  }  #info {  float: right;  width: 160px;  margin-right: 13px;  display: inline;  }    #copyright {  clear: both;  padding:10px 35px 0 35px;  margin: 3em 0 0 0;  font-size: 95%;   color: #999;  height: 60px;  } #copyright {   background: #9acccc url(../images/content_bottom_white.gif) bottom no-repeat;   }#recipes #copyright,#kitchen #copyright,#shop #copyright,#discuss #copyright,#taxonomy #copyright {      background: #9acccc url(../images/content_bottom_bar.gif) bottom no-repeat;      }/*  ---------------------- END LAYOUT STYLES ----------------------------- *//*  ---------------------- SPECIFIC PAGE ELEMENT STYLES ---------------------- */#kitchen-head {   background: url(../images/jenskitchen_head.png) top left no-repeat;   width: 504px;   height: 112px;   text-indent: -999em;   font-size: .5em;   margin-top: -20px;   margin-left: -35px;   }#recipe-head {   background: url(../images/recipes_head.png) top left no-repeat;   width: 504px;   height: 112px;   text-indent: -999em;   font-size: .5em;   margin-top: -20px;   margin-left: -35px;   }/*  RECIPE STYLES (artist, recipes, and kitchen pages)   */.recipe-item {	font-family: Georgia, "Times New Roman", Times, serif;	font-size: 1.2em;	line-height: 1.4em;}	#main #recipe h2 {  background: url(../images/recipe.gif) no-repeat top left;  font-size: 1px;  width: 454px;  height: 32px;  text-indent: -999em;  margin: 0;  margin-top: 1em; }div.recipe-item {  margin-top: 2em;}.recipe-item h3 {  font-size: 1.5em;  font-weight: bold;  color: #366;  margin-bottom: .5em;  margin-top: .5em;}.recipe-item h4 {    font-family: Verdana, sans-serif;  text-transform: uppercase;  font-size: .8em;  letter-spacing: 2px;  color: #C33;  font-weight: bold;  margin-top: .5em;  margin-bottom: 0;}.recipe-item .recipe-note {  line-height: 1.3em;  color: #C33;  margin-top: 0;}.recipe-item ul, .recipe-item ol {  margin-top: 3px;  margin-left: 0;  padding-left: 2em;  }.recipe-item ol {  list-style-type: decimal; }  .recipe-item li {  margin-top: 2px;  margin-left: 0;  padding-left: 0;  }  .submitted-by p {  display: inline;}.submitted-by {  margin-bottom: 2em;  margin-top: 0;  font-family: Verdana, sans-serif;  font-size: 90%;}/* END RECIPE *//*  MOVIE BOX STYLES (artist page only)  */#movie {  background:url(../images/moviebox_top.gif) no-repeat top left;  /*width: 504px;*/  padding-top: 20px;  margin-top: -20px;  margin-left: -35px;  width: 504px;  }#movie h1 {  font-family: Georgia, "Times New Roman", Times, serif;  font-size: 2em;  font-weight: bold;  color: #fff;  margin: 0 12px 15px 12px;}#movie .player {  text-align: center;}#subscribe a, #subscribe a:visited {   color: #fff;   text-decoration: none;   }    #subscribe a:hover {   border-bottom: 1px dotted white;   }.bandname {  font-size: 75%;  }#movie img {   margin: 3px 12px;   }   #subscribe {  background: url(../images/moviebox_bottom.gif) no-repeat bottom left;  padding: 0 12px;  height: 40px;  }/*  END MOVIE BOX  *//*  ARTIST INFO STYLES (artist page only) */#info p {  line-height: 1.4em;  margin-top: .5em;  }  #info li {  margin: .5em 0 0 0; }#artist #info h2 {  font-size: 1px;  width: 167px;  height: 26px;  text-indent: -999em;  margin: 0;}#aboutartist {  padding-top: 30px;}#aboutartist h2 {  background: url(../images/aboutartist.gif) no-repeat top left;}#aboutartist h3 {  color: #399;  font-size: 1.2em;  margin: 1em 0 .5em 0;}#discography h2 {  background: url(../images/discography.gif) no-repeat top left;}#weblinks h2 {  background: url(../images/links.gif) no-repeat top left;}#discography ul, #weblinks ul {  padding-left: 0;  margin-left: 0;  margin-top: .5em; }.albumtitle {   font-style: italic;   }    #weblinks ul li {   margin-top: 1em;   }        /*   ABOUT INTERVIEW BOX STYLES (artist page only) */#aboutinterview {  background: transparent url(../images/bkgd_interviewbox.png) top left no-repeat;  width: 165px;  margin-top: 3em;  font-size: 95%;}#artist #info #aboutinterview h2 {   color: #96151e;   margin: 0;   font-size: 1.2em;   padding: 15px 8px 0;   text-indent: 0;   width: 149px; }#artist #info #aboutinterview dl {  margin-top: 0;} .hiddenlabel { display: none;   }    #aboutinterview dt {  float: left;  margin-right: .3em;  margin-top: .5em;  font-weight: bold;  color: #f33;  padding: 0 8px;  width: 149px;  }  #aboutinterview dd { margin-left: 0; margin-top: .5em; padding: 0 8px; width: 149px; }  #aboutinterview dd p {   margin: 0;   padding: 0;   display: inline; } /*  END ABOUT INTERVIEW */  /* END ARTIST INFO STYLES */    /*  KITCHEN INFO STYLES */#kitchen #info p {   color: #971104;   line-height: 1.2em;   } #kitchen #info ul {  padding-left: 0;  margin-left: 0;  margin-top: .5em;  }/* ----------- RECIPES PAGE STYLES --------------- */#recipes #info h3 {  text-transform: uppercase;  font-size: 95%;  letter-spacing: 2px;  color: #900;  margin: 2em 0 0 0; }#recipes p#intro {  font-family: Verdana, sans-serif;  color: #666;  line-height: 1.3em;  }  #recipes #main h2 {  background:transparent none repeat scroll 0%;  border-bottom:1px solid teal;  color:teal;  font-family:Verdana,sans-serif;  font-size:90%;  height:auto;  letter-spacing:2px;  margin:1em 0pt 2em;  padding-bottom:2px;  text-align:left;  text-indent:0pt;  text-transform:uppercase;  }/* KITCHEN PAGE STYLES *//*  blog */#blog {  margin-left: 40px;  }#kitchen #main h2, #kitchen #main .node h1 {  font-family: Georgia, serif;  font-weight: bold;  font-size: 1.5em;  color: #971104;  margin-top: 2em;  }#kitchen .submitted {  font-style: italic;  color: #dc7e74;}  #kitchen #main p {  line-height: 1.7em;  }/* end blog *//* categories section */#block-block-2 h2 {  background: url(../images/categories.gif) no-repeat top left;  font-size: .5em;  width: 167px;  height: 26px;  text-indent: -999em;  margin: 0;  margin-top: 4em;}/* end categories *//* now playing section */#block-views-nowplaying h2 {  background: url(../images/nowplaying.gif) no-repeat top left;  font-size: .5em;  width: 167px;  height: 26px;  text-indent: -999em;  margin: 0;  margin-top: 4em;}/* cool stuff section */#block-block-4 dd {  padding-left: 0;  margin-left: 0;}#block-block-4 dt {  margin-top: 1em;}#block-block-4 h2 {  background: url(../images/coolstuff.gif) no-repeat top left;  font-size: .5em;  width: 167px;  height: 26px;  text-indent: -999em;  margin: 0;  margin-top: 4em;}/* end coolstuff *//* END KITCHEN PAGE STYLES *//* ABOUT PAGE STYLES */#node-163 .content {  padding-top: 40px;}#node-163 .content p {   line-height: 1.8em; }#node-163 .content h1 {  background: url(../images/abouttheshow.gif) no-repeat top left;  font-size: .5em;  width: 150px;  height: 30px;  text-indent: -999em;  margin: 1em 0 2em 0;}#node-163 .content h2 {  text-transform: uppercase;  font-size: 1em;  letter-spacing: 2px;  color: #25646f;  margin: 2em 0 0 0;  padding-bottom: 2px;  border-bottom: solid 1px #25646f;}/* end about page *//* SUBSCRIBE PAGE */#node-162 .content p {  line-height: 1.6em;}#node-162 .content h1 {  background: url(../images/subscribe.gif) no-repeat top left;  font-size: .5em;  width: 350px;  height: 50px;  text-indent: -999em;  margin: 1em 0 2em 0;}#node-162 .content {  padding-top: 40px;}#node-162 .content h2 {  font-size: 1.2em;  color: #25646f;  margin-top: 2em;}/* subscribe *//* contact */body#contact #content h1.title {  background: url(../images/contact.gif) no-repeat top left;  font-size: .5em;  width: 200px;  height: 50px;  text-indent: -999em;  margin: 1em 0 2em 0;}body#contact #content p {  line-height: 1.6em;}body#contact #content {  padding-top: 40px;}/* end contact *//* online media page */#node-277 .content p {  line-height: 1.6em;}#node-277 .content h1 {  background: url(../../../../../files/imce/presskit_materials.gif) no-repeat top left;  font-size: .5em;  width: 250px;  height: 50px;  text-indent: -999em;  margin: 1em 0 2em 0;}#node-277 .content {  padding-top: 40px;}#node-277 .content h2 {  font-size: 1.2em;  color: #25646f;  margin-top: 2em;}/* --------------------- END SPECIFIC PAGE ELEMENT STYLES --------------------- */
+/*  ------------------- ALL SECOND-LEVEL PAGES SHARE THESE STYLES --------------------- */
+
+body {
+  font-family:  Verdana, sans-serif;
+  font-size: 69%;
+  color: #333;
+  background: #9acccc;
+  margin: 0;
+  padding: 0;
+  }
+  
+#content div.tabs {
+  z-index: 38;
+  position: absolute;
+}
+  
+ul {
+  list-style-type: none;
+  padding: 0;
+  }
+
+.item-list ul {
+  padding-left: 0;
+  margin-left: 0;
+}
+
+span.name {
+  font-weight: bold;
+  font-style: italic;
+}
+
+
+.item-list ul li {
+  list-style-type: none;
+  padding: 0;
+}
+  
+ul.menu li.leaf {
+  list-style-image: none;
+  list-style-type: none;
+}
+
+#container {
+  background: url(../images/bkgd_redboxnav.gif) top left no-repeat;
+  width: 920px;
+  margin: 0 auto;
+  position: relative;
+  }
+  
+  
+/*  PAGE LINK STYLES  */
+a:link, a:visited {
+  color: #006666;
+  text-decoration: none;
+  }
+ 
+a:hover {
+  color:#009999;
+  text-decoration: none;
+  border-bottom: 1px solid #00CCCC;
+}
+
+h1#site-name {
+  margin: 0;
+}
+
+h1#site-name a:hover {
+  border-bottom: none;
+}
+
+
+/*  HEADER STYLES */
+#header h1 a {
+  background: url(../images/cwr_sm_header.gif) no-repeat top left scroll;
+  width: 308px;
+  height: 52px;
+  margin: 0;
+  margin-left: 10px;
+  display:block;
+ }
+ 
+#header h1 a span {
+   left:-999em;
+   position:relative;
+   font-size: .5em;
+ }
+
+#header ul {
+  width: 590px;
+  margin: 0;
+  position: relative;
+  top: -27px;
+  left: 330px;
+  height: 2px;
+  }
+  
+#header ul li {
+  display: inline;
+  margin-right: 1em;
+  padding: 0;
+  }
+  
+ #header a, #header a:visited {
+   color: #fff;
+   text-decoration: none;
+   }
+   
+ #header a:hover {
+   border-bottom: 1px dotted white;
+   }
+/*  END HEADER STYLES */
+
+/*  SCROLLING INTERVIEW NAV BOX  */
+#block-views-interviews {
+  width: 188px;
+  height: 296px;
+  overflow: auto;
+  margin: 0 10px;
+  position: absolute;
+  top: 71px;
+  left: 15px;
+  padding-top: 6px;
+}
+
+#block-views-interviews h2 {
+  font-size: 1em;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  border-bottom: 1px solid #fff;
+}
+
+#block-views-interviews ul {
+  margin: 0;
+}
+
+#block-views-interviews ul li {
+   text-indent: 0px;
+   margin: .7em 0;
+   }
+   
+#block-views-interviews a, #block-views-interviews a:visited {
+  color:#066;
+  text-decoration: none;
+  }
+ 
+ #block-views-interviews a:hover {
+   text-decoration: underline;  
+   border-bottom: none;
+    }
+/*  END SCROLLING NAV BOX */
+
+
+/* GRAPHICAL SECTION LINKS */
+#block-menu-75 {
+  position:absolute;
+  top: 370px;
+  left: 20px;
+  }
+  
+#block-menu-75 ul.menu li {
+  margin: 6px 0;
+  }
+
+#block-menu-75 ul.menu a {
+  display: block;
+  width: 180px;
+  text-indent: -999em;
+}
+
+#block-menu-75 ul.menu a:hover {
+  border: none 0;
+}
+
+#block-menu-75 .mid-76 a {
+  height: 50px;
+  background: transparent url(../images/jenskitchen_button.png) top left no-repeat;
+}
+#block-menu-75 .mid-76 a:hover {
+  background: transparent url(../images/jenskitchen_button.png) bottom left no-repeat;
+}
+
+/*
+#block-menu-75 .mid-77 a {
+  height: 33px;
+  background: transparent url(../images/shop_button.png) top left no-repeat;
+}
+#block-menu-75 .mid-77 a:hover {
+  background: transparent url(../images/shop_button.png) bottom left no-repeat;
+}
+*/
+
+#block-menu-75 .mid-77 a {
+  height: 33px;
+  background: transparent url(../images/discuss_button.png) top left no-repeat;
+}
+#block-menu-75 .mid-77 a:hover {
+  background: transparent url(../images/discuss_button.png) bottom left no-repeat;
+}
+
+#block-menu-75 .mid-78 a {
+  height: 33px;
+  background: transparent url(../images/recipes_button.png) top left no-repeat;
+}
+
+#block-menu-75 .mid-78 a:hover {
+  background: transparent url(../images/recipes_button.png) bottom left no-repeat;
+}
+/* END GRAPHICAL SECTION LINKS */
+  
+
+/* -----------------------------END SHARED STYLES --------------------------- */
+
+
+  
+/* ---------------- MORE LAYOUT STYLES, PAGE-SPECIFIC ------------------------ */
+#content {
+  width: 700px;
+  margin-left: 220px;
+  background: url(../images/content_top_white.png) top left no-repeat;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+  
+
+#kitchen #content,
+#recipes #content {
+  background: url(../images/content_top_bar.png) top left no-repeat;
+}
+  
+#content-content {
+  min-height: 500px;
+  padding:20px 10px 20px 35px;
+  }
+
+#main {
+  float: left;
+  width: 469px;
+  }
+  
+#info {
+  float: right;
+  width: 160px;
+  margin-right: 13px;
+  display: inline;
+  }
+    
+#copyright {
+  clear: both;
+  padding:10px 35px 0 35px;
+  margin: 3em 0 0 0;
+  font-size: 95%; 
+  color: #999;
+  height: 60px;
+  }
+ 
+#copyright {
+   background: #9acccc url(../images/content_bottom_white.gif) bottom no-repeat;
+   }
+
+
+#recipes #copyright,
+#kitchen #copyright,
+#shop #copyright,
+#discuss #copyright,
+#taxonomy #copyright {
+      background: #9acccc url(../images/content_bottom_bar.gif) bottom no-repeat;
+      }
+
+/*  ---------------------- END LAYOUT STYLES ----------------------------- */
+
+
+
+/*  ---------------------- SPECIFIC PAGE ELEMENT STYLES ---------------------- */
+
+#kitchen-head {
+   background: url(../images/jenskitchen_head.png) top left no-repeat;
+   width: 504px;
+   height: 112px;
+   text-indent: -999em;
+   font-size: .5em;
+   margin-top: -20px;
+   margin-left: -35px;
+   }
+
+#recipe-head {
+   background: url(../images/recipes_head.png) top left no-repeat;
+   width: 504px;
+   height: 112px;
+   text-indent: -999em;
+   font-size: .5em;
+   margin-top: -20px;
+   margin-left: -35px;
+   }
+
+
+
+/*  RECIPE STYLES (artist, recipes, and kitchen pages)   */
+.recipe-item {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 1.2em;
+	line-height: 1.4em;
+}	
+
+#main #recipe h2 {
+  background: url(../images/recipe.gif) no-repeat top left;
+  font-size: 1px;
+  width: 454px;
+  height: 32px;
+  text-indent: -999em;
+  margin: 0;
+  margin-top: 1em;
+ }
+
+div.recipe-item {
+  margin-top: 2em;
+}
+
+.recipe-item h3 {
+  font-size: 1.5em;
+  font-weight: bold;
+  color: #366;
+  margin-bottom: .5em;
+  margin-top: .5em;
+}
+
+.recipe-item h4 {  
+  font-family: Verdana, sans-serif;
+  text-transform: uppercase;
+  font-size: .8em;
+  letter-spacing: 2px;
+  color: #C33;
+  font-weight: bold;
+  margin-top: .5em;
+  margin-bottom: 0;
+}
+
+.recipe-item .recipe-note {
+  line-height: 1.3em;
+  color: #C33;
+  margin-top: 0;
+}
+
+
+.recipe-item ul, .recipe-item ol {
+  margin-top: 3px;
+  margin-left: 0;
+  padding-left: 2em;
+  }
+
+.recipe-item ol {
+  list-style-type: decimal;
+ }
+  
+.recipe-item li {
+  margin-top: 2px;
+  margin-left: 0;
+  padding-left: 0;
+  }
+  
+.submitted-by p {
+  display: inline;
+}
+
+.submitted-by {
+  margin-bottom: 2em;
+  margin-top: 0;
+  font-family: Verdana, sans-serif;
+  font-size: 90%;
+}
+/* END RECIPE */
+
+
+
+/*  MOVIE BOX STYLES (artist page only)  */
+#movie {
+  background:url(../images/moviebox_top.gif) no-repeat top left;
+  /*width: 504px;*/
+  padding-top: 20px;
+  margin-top: -20px;
+  margin-left: -35px;
+  width: 504px;
+  }
+
+#movie h1 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 2em;
+  font-weight: bold;
+  color: #fff;
+  margin: 0 12px 15px 12px;
+}
+
+#movie .player {
+  text-align: center;
+}
+
+#subscribe a, #subscribe a:visited {
+   color: #fff;
+   text-decoration: none;
+   }
+   
+ #subscribe a:hover {
+   border-bottom: 1px dotted white;
+   }
+
+.bandname {
+  font-size: 75%;
+  }
+
+#movie img {
+   margin: 3px 12px;
+   }
+   
+#subscribe {
+  background: url(../images/moviebox_bottom.gif) no-repeat bottom left;
+  padding: 0 12px;
+  height: 40px;
+  }
+/*  END MOVIE BOX  */
+
+
+
+
+/*  ARTIST INFO STYLES (artist page only) */
+
+#info p {
+  line-height: 1.4em;
+  margin-top: .5em;
+  }
+ 
+ #info li {
+  margin: .5em 0 0 0;
+ }
+
+#artist #info h2 {
+  font-size: 1px;
+  width: 167px;
+  height: 26px;
+  text-indent: -999em;
+  margin: 0;
+}
+
+#aboutartist {
+  padding-top: 30px;
+}
+
+#aboutartist h2 {
+  background: url(../images/aboutartist.gif) no-repeat top left;
+}
+
+#aboutartist h3 {
+  color: #399;
+  font-size: 1.2em;
+  margin: 1em 0 .5em 0;
+}
+
+#discography h2 {
+  background: url(../images/discography.gif) no-repeat top left;
+}
+
+#weblinks h2 {
+  background: url(../images/links.gif) no-repeat top left;
+}
+
+#discography ul, #weblinks ul {
+  padding-left: 0;
+  margin-left: 0;
+  margin-top: .5em;
+ }
+
+.albumtitle {
+   font-style: italic;
+   }
+   
+ #weblinks ul li {
+   margin-top: 1em;
+   }
+   
+   
+  /*   ABOUT INTERVIEW BOX STYLES (artist page only) */
+#aboutinterview {
+  background: transparent url(../images/bkgd_interviewbox.png) top left no-repeat;
+  width: 165px;
+  margin-top: 3em;
+  font-size: 95%;
+}
+
+#artist #info #aboutinterview h2 {
+   color: #96151e;
+   margin: 0;
+   font-size: 1.2em;
+   padding: 15px 8px 0;
+   text-indent: 0;
+   width: 149px;
+ }
+
+#artist #info #aboutinterview dl {
+  margin-top: 0;
+}
+ 
+.hiddenlabel {
+ display: none;
+   }
+ 
+   
+#aboutinterview dt {
+  float: left;
+  margin-right: .3em;
+  margin-top: .5em;
+  font-weight: bold;
+  color: #f33;
+  padding: 0 8px;
+  width: 149px;
+  }
+ 
+ #aboutinterview dd {
+ margin-left: 0;
+ margin-top: .5em;
+ padding: 0 8px;
+ width: 149px;
+ }
+ 
+ #aboutinterview dd p {
+   margin: 0;
+   padding: 0;
+   display: inline;
+ }
+ 
+/*  END ABOUT INTERVIEW */
+
+  /* END ARTIST INFO STYLES */
+  
+ 
+
+
+ 
+/*  KITCHEN INFO STYLES */
+#kitchen #info p {
+   color: #971104;
+   line-height: 1.2em;
+   }
+ 
+#kitchen #info ul {
+  padding-left: 0;
+  margin-left: 0;
+  margin-top: .5em;
+  }
+
+
+
+/* ----------- RECIPES PAGE STYLES --------------- */
+#recipes #info h3 {
+  text-transform: uppercase;
+  font-size: 95%;
+  letter-spacing: 2px;
+  color: #900;
+  margin: 2em 0 0 0;
+ }
+
+#recipes p#intro {
+  font-family: Verdana, sans-serif;
+  color: #666;
+  line-height: 1.3em;
+  }
+  
+
+#recipes #main h2 {
+  background:transparent none repeat scroll 0%;
+  border-bottom:1px solid teal;
+  color:teal;
+  font-family:Verdana,sans-serif;
+  font-size:90%;
+  height:auto;
+  letter-spacing:2px;
+  margin:1em 0pt 2em;
+  padding-bottom:2px;
+  text-align:left;
+  text-indent:0pt;
+  text-transform:uppercase;
+  }
+
+/* KITCHEN PAGE STYLES */
+
+/*  blog */
+#blog {
+  margin-left: 40px;
+  }
+
+#kitchen #main h2, #kitchen #main .node h1 {
+  font-family: Georgia, serif;
+  font-weight: bold;
+  font-size: 1.5em;
+  color: #971104;
+  margin-top: 2em;
+  }
+
+#kitchen .submitted {
+  font-style: italic;
+  color: #dc7e74;
+}
+  
+#kitchen #main p {
+  line-height: 1.7em;
+  }
+/* end blog */
+
+/* categories section */
+#block-block-2 h2 {
+  background: url(../images/categories.gif) no-repeat top left;
+  font-size: .5em;
+  width: 167px;
+  height: 26px;
+  text-indent: -999em;
+  margin: 0;
+  margin-top: 4em;
+}
+/* end categories */
+
+/* now playing section */
+#block-views-nowplaying h2 {
+  background: url(../images/nowplaying.gif) no-repeat top left;
+  font-size: .5em;
+  width: 167px;
+  height: 26px;
+  text-indent: -999em;
+  margin: 0;
+  margin-top: 4em;
+}
+
+
+/* cool stuff section */
+#block-block-4 dd {
+  padding-left: 0;
+  margin-left: 0;
+}
+
+#block-block-4 dt {
+  margin-top: 1em;
+}
+
+#block-block-4 h2 {
+  background: url(../images/coolstuff.gif) no-repeat top left;
+  font-size: .5em;
+  width: 167px;
+  height: 26px;
+  text-indent: -999em;
+  margin: 0;
+  margin-top: 4em;
+}
+/* end coolstuff */
+
+
+
+/* END KITCHEN PAGE STYLES */
+
+
+/* ABOUT PAGE STYLES */
+
+#node-163 .content {
+  padding-top: 40px;
+}
+
+#node-163 .content p {
+   line-height: 1.8em;
+ }
+
+#node-163 .content h1 {
+  background: url(../images/abouttheshow.gif) no-repeat top left;
+  font-size: .5em;
+  width: 150px;
+  height: 30px;
+  text-indent: -999em;
+  margin: 1em 0 2em 0;
+}
+
+#node-163 .content h2 {
+  text-transform: uppercase;
+  font-size: 1em;
+  letter-spacing: 2px;
+  color: #25646f;
+  margin: 2em 0 0 0;
+  padding-bottom: 2px;
+  border-bottom: solid 1px #25646f;
+}
+/* end about page */
+
+/* SUBSCRIBE PAGE */
+#node-162 .content p {
+  line-height: 1.6em;
+}
+
+#node-162 .content h1 {
+  background: url(../images/subscribe.gif) no-repeat top left;
+  font-size: .5em;
+  width: 350px;
+  height: 50px;
+  text-indent: -999em;
+  margin: 1em 0 2em 0;
+}
+
+#node-162 .content {
+  padding-top: 40px;
+}
+
+#node-162 .content h2 {
+  font-size: 1.2em;
+  color: #25646f;
+  margin-top: 2em;
+}
+/* subscribe */
+
+/* contact */
+
+body#contact #content h1.title {
+  background: url(../images/contact.gif) no-repeat top left;
+  font-size: .5em;
+  width: 200px;
+  height: 50px;
+  text-indent: -999em;
+  margin: 1em 0 2em 0;
+}
+
+body#contact #content p {
+  line-height: 1.6em;
+}
+
+body#contact #content {
+  padding-top: 40px;
+}
+
+/* end contact */
+
+
+/* online media page */
+#node-277 .content p {
+  line-height: 1.6em;
+}
+
+#node-277 .content h1 {
+  background: url(../../../../../files/imce/presskit_materials.gif) no-repeat top left;
+  font-size: .5em;
+  width: 250px;
+  height: 50px;
+  text-indent: -999em;
+  margin: 1em 0 2em 0;
+}
+
+#node-277 .content {
+  padding-top: 40px;
+}
+
+#node-277 .content h2 {
+  font-size: 1.2em;
+  color: #25646f;
+  margin-top: 2em;
+}
+
+
+/* --------------------- END SPECIFIC PAGE ELEMENT STYLES --------------------- */
+
+
+div#content div.error {
+  display: none;
+}
